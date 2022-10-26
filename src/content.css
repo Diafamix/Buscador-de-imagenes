@@ -1,0 +1,10 @@
+.container {
+    display: felx;
+    background-color: #eee;
+    justify-content: center;
+}
+
+.center {
+    column-count: 3;
+    width: 120px;
+}
